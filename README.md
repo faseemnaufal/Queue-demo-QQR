@@ -1,3 +1,8 @@
+<img width="167" height="211" alt="staff-page" src="https://github.com/user-attachments/assets/f95c7a59-05b3-4ce4-b12c-08398769a2df" />
+<img width="619" height="372" alt="staff-sign-in" src="https://github.com/user-attachments/assets/93d3d9f0-ec69-48ee-99d7-674cb9db0fce" />
+<img width="473" height="312" alt="qr-display" src="https://github.com/user-attachments/assets/3e338a80-956b-4693-a31e-1dae0a12642e" />
+<img width="149" height="131" alt="customer-token" src="https://github.com/user-attachments/assets/9921af68-7bb0-4bef-8a67-d766be1b600a" />
+
 # Queue demo (Next.js + Supabase)
 
 Scan a QR code, get a token, watch your turn approach. Numbers restart every day.
